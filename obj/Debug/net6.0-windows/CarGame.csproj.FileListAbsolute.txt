@@ -1,0 +1,53 @@
+C:\Users\daniil.melezhyk\source\repos\CarGame\bin\Debug\net6.0-windows\CarGame.exe
+C:\Users\daniil.melezhyk\source\repos\CarGame\bin\Debug\net6.0-windows\CarGame.deps.json
+C:\Users\daniil.melezhyk\source\repos\CarGame\bin\Debug\net6.0-windows\CarGame.runtimeconfig.json
+C:\Users\daniil.melezhyk\source\repos\CarGame\bin\Debug\net6.0-windows\CarGame.dll
+C:\Users\daniil.melezhyk\source\repos\CarGame\bin\Debug\net6.0-windows\CarGame.pdb
+C:\Users\daniil.melezhyk\source\repos\CarGame\obj\Debug\net6.0-windows\CarGame.csproj.AssemblyReference.cache
+C:\Users\daniil.melezhyk\source\repos\CarGame\obj\Debug\net6.0-windows\CarGame.Form1.resources
+C:\Users\daniil.melezhyk\source\repos\CarGame\obj\Debug\net6.0-windows\CarGame.Properties.Resources.resources
+C:\Users\daniil.melezhyk\source\repos\CarGame\obj\Debug\net6.0-windows\CarGame.csproj.GenerateResource.cache
+C:\Users\daniil.melezhyk\source\repos\CarGame\obj\Debug\net6.0-windows\CarGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniil.melezhyk\source\repos\CarGame\obj\Debug\net6.0-windows\CarGame.AssemblyInfoInputs.cache
+C:\Users\daniil.melezhyk\source\repos\CarGame\obj\Debug\net6.0-windows\CarGame.AssemblyInfo.cs
+C:\Users\daniil.melezhyk\source\repos\CarGame\obj\Debug\net6.0-windows\CarGame.csproj.CoreCompileInputs.cache
+C:\Users\daniil.melezhyk\source\repos\CarGame\obj\Debug\net6.0-windows\CarGame.dll
+C:\Users\daniil.melezhyk\source\repos\CarGame\obj\Debug\net6.0-windows\refint\CarGame.dll
+C:\Users\daniil.melezhyk\source\repos\CarGame\obj\Debug\net6.0-windows\CarGame.pdb
+C:\Users\daniil.melezhyk\source\repos\CarGame\obj\Debug\net6.0-windows\CarGame.genruntimeconfig.cache
+C:\Users\daniil.melezhyk\source\repos\CarGame\obj\Debug\net6.0-windows\ref\CarGame.dll
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\obj\Debug\net6.0-windows\CarGame.csproj.AssemblyReference.cache
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\obj\Debug\net6.0-windows\CarGame.dll
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\obj\Debug\net6.0-windows\refint\CarGame.dll
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\obj\Debug\net6.0-windows\CarGame.pdb
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\bin\Debug\net6.0-windows\CarGame.exe
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\bin\Debug\net6.0-windows\CarGame.deps.json
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\bin\Debug\net6.0-windows\CarGame.runtimeconfig.json
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\bin\Debug\net6.0-windows\CarGame.dll
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\bin\Debug\net6.0-windows\CarGame.pdb
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\obj\Debug\net6.0-windows\CarGame.Form1.resources
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\obj\Debug\net6.0-windows\CarGame.Properties.Resources.resources
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\obj\Debug\net6.0-windows\CarGame.csproj.GenerateResource.cache
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\obj\Debug\net6.0-windows\CarGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\obj\Debug\net6.0-windows\CarGame.AssemblyInfoInputs.cache
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\obj\Debug\net6.0-windows\CarGame.AssemblyInfo.cs
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\obj\Debug\net6.0-windows\CarGame.csproj.CoreCompileInputs.cache
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\obj\Debug\net6.0-windows\CarGame.genruntimeconfig.cache
+C:\Users\xinxing.wu\OneDrive - Midway University\Desktop\CarGame\obj\Debug\net6.0-windows\ref\CarGame.dll
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\bin\Debug\net6.0-windows\CarGame.exe
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\bin\Debug\net6.0-windows\CarGame.deps.json
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\bin\Debug\net6.0-windows\CarGame.runtimeconfig.json
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\bin\Debug\net6.0-windows\CarGame.dll
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\bin\Debug\net6.0-windows\CarGame.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\obj\Debug\net6.0-windows\CarGame.Form1.resources
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\obj\Debug\net6.0-windows\CarGame.Properties.Resources.resources
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\obj\Debug\net6.0-windows\CarGame.csproj.GenerateResource.cache
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\obj\Debug\net6.0-windows\CarGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\obj\Debug\net6.0-windows\CarGame.AssemblyInfoInputs.cache
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\obj\Debug\net6.0-windows\CarGame.AssemblyInfo.cs
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\obj\Debug\net6.0-windows\CarGame.csproj.CoreCompileInputs.cache
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\obj\Debug\net6.0-windows\CarGame.dll
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\obj\Debug\net6.0-windows\refint\CarGame.dll
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\obj\Debug\net6.0-windows\CarGame.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\obj\Debug\net6.0-windows\CarGame.genruntimeconfig.cache
+C:\Users\Danil\OneDrive\Рабочий стол\CarGame\obj\Debug\net6.0-windows\ref\CarGame.dll
